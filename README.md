@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Yostina Aziz!
 
 🎓 A Computer Engineering graduate from the **Arab Academy for Science and Technology** — graduated with **high honors**.  
-💻 Passionate **iOS Developer** | Web Enthusiast | Debugging Queen | Tech Problem Solver  
+💻 Passionate **Front-end Developer** | Web Enthusiast | Debugging Queen | Tech Problem Solver  
 🌍 Based in Egypt | Fluent in Arabic (Egyptian dialect) & English  
 🔭 Currently freelancing & building awesome apps that solve real problems.
 
@@ -10,8 +10,7 @@
 ## 🚀 About Me
 
 - 👩‍💻 I love building **clean**, **intuitive**, and **scalable** software.
-- 🛠️ Experienced in **Swift**, **React**, **Next.js**, **Mapbox**, **Tkinter**, and **Python (3.7–3.10)**.
-- 📊 I’ve worked on data transformation, GUI tools, file decoding (like EBCDIC to CSV), and cross-platform development.
+- 🛠️ Experienced in **HTML**, **CSS**, **JavaScript**, **Tkinter**, and **Python (3.7–3.10)**.
 - 🧠 Always learning – from AI-assisted tools to exploring **transcription jobs**, **prompt engineering**, and **RLHF projects**.
 - 💬 Let's talk about coding, debugging, or **spackling** gaps in logic with elegant solutions!
 
