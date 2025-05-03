@@ -11,7 +11,7 @@
 
 - 👩‍💻 I love building **clean**, **intuitive**, and **scalable** software.
 - 🛠️ Experienced in **HTML**, **CSS**, **JavaScript**, **Tkinter**, and **Python (3.7–3.10)**.
-- 🧠 Always learning – from AI-assisted tools to exploring **transcription jobs**, **prompt engineering**, and **RLHF projects**.
+- 🧠 Always learning
 - 💬 Let's talk about coding, debugging, or **spackling** gaps in logic with elegant solutions!
 
 ---
